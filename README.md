@@ -10,3 +10,4 @@ Frontend exercises, JavaScript and TypeScript solutions, and revision notes.
 - [2621. Sleep](JavaScript/LeetCode/2621-sleep.ts)
 - [2622. Cache With Time Limit](JavaScript/LeetCode/2622-cache-with-time-limit.ts)
 - [2623. Memoize](JavaScript/LeetCode/2623-memoize.ts)
+- [2624. Snail Traversal](JavaScript/LeetCode/2624-snail-traversal.ts)
